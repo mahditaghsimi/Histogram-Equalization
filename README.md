@@ -1,6 +1,7 @@
 # Histogram-Equalization
 Step‑by‑step manual grayscale histogram equalization in Python with full statistical analysis.
 
+## Histogram-Equalization
 This repository demonstrates a **manual grayscale image histogram equalisation** process using Python.  
 All operations — from histogram calculation and normalisation to cumulative distribution computation and equalised mapping — are performed step‑by‑step without using OpenCV’s built‑in `equalizeHist()` function.
 
